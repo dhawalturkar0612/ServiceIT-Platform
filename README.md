@@ -167,6 +167,8 @@ http://localhost:5173
 
 ## 👨‍💻 Developed By
 
-**Dhawal Turkar**
-- GitHub: [@dhawalturkar0612](https://github.com/dhawalturkar0612)
-- CDAC Post Graduate Diploma Project (Solo Developer)
+### **Dhawal Turkar**
+*CDAC Post Graduate Diploma (Solo Developer)*
+
+[![GitHub](https://img.shields.io/badge/GitHub-dhawalturkar0612-181717?style=flat&logo=github)](https://github.com/dhawalturkar0612)
+[![Email](https://img.shields.io/badge/Email-dhawalturkar%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhawalturkar@gmail.com)
