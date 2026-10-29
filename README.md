@@ -168,5 +168,5 @@ http://localhost:5173
 ## 👨‍💻 Developed By
 
 **Dhawal Turkar**
-- GitHub: [@aka-obito](https://github.com/aka-obito)
+- GitHub: [@dhawalturkar0612](https://github.com/dhawalturkar0612)
 - CDAC Post Graduate Diploma Project (Solo Developer)
