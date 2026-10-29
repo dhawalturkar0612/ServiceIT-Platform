@@ -165,6 +165,8 @@ http://localhost:5173
 
 ---
 
-## 👥 Contributors
-- **Dhawal Turkar** — [GitHub Profile](https://github.com/aka-obito)
-- CDAC Project Team
+## 👨‍💻 Developed By
+
+**Dhawal Turkar**
+- GitHub: [@aka-obito](https://github.com/aka-obito)
+- CDAC Post Graduate Diploma Project (Solo Developer)
