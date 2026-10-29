@@ -1,1 +1,30 @@
+# Compiled class files & build output
+target/
+*.class
 
+# Eclipse / STS workspace & project metadata
+.metadata/
+.settings/
+.project
+.classpath
+.factorypath
+bin/
+
+# IntelliJ IDEA (in case anyone uses it)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Sensitive environment / configuration files (Secrets)
+application-secret.properties
+application-local.properties
+.env
